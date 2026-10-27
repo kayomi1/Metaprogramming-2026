@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Task01/Task01.csproj" />
+  <Project Path="Task02/Task02.csproj" />
+  <Project Path="Task03/Task03.csproj" />
+  <Project Path="Task04/Task04.csproj" />
+  <Project Path="Task05/Task05.csproj" />
+  <Project Path="Task06/Task06.csproj" />
+  <Project Path="Task07/Task07.csproj" />
+</Solution>
